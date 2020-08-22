@@ -4,3 +4,6 @@
 [submodule "MiraiAndroid"]
 	path = MiraiAndroid
 	url = git@github.com:mzdluo123/MiraiAndroid.git
+[submodule "mirai-console-starter"]
+	path = mirai-console-starter
+	url = git@github.com:Pai2Chen/mirai-console-starter.git
