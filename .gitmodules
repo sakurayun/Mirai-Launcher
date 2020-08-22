@@ -1,0 +1,6 @@
+[submodule "MiraiOK"]
+	path = MiraiOK
+	url = git@github.com:LXY1226/MiraiOK.git
+[submodule "MiraiAndroid"]
+	path = MiraiAndroid
+	url = git@github.com:mzdluo123/MiraiAndroid.git
